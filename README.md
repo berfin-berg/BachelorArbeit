@@ -2,6 +2,6 @@
 
 Welcome to this repo.
 
-# What is this about?
+## What is this about?
 
 Is about computer graphics.
